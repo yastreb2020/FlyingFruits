@@ -432,6 +432,7 @@ MonoBehaviour:
   - {fileID: 8179230730169832300, guid: 3c746d0219cc1b04386f09042721adac, type: 3}
   - {fileID: 2741402713024571393, guid: 56bdc8de629b0db47a8337c096bdf8b6, type: 3}
   - {fileID: 4167998485416546606, guid: 4928a171d02d2af4cb020df5391f23db, type: 3}
+  - {fileID: 4017975174820170414, guid: c76f3ddc088264845a794d03d6aab288, type: 3}
   startDelay: 1
   spawnTime: 3
 --- !u!4 &1531066957
